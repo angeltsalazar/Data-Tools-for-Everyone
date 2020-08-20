@@ -4,11 +4,13 @@ XForms es un formato en XML, usado para la captura de datos en Web.
 
 Con esta tenología es posible la creación, consumo y obtención de diversos tipos de contenido, tanto del aspecto personal, como del profesional. Todo esto a través de dispositivos moviles, como son los celulares y tabletas.
 
-En este primer artículo, les quiero presentar una comparación práctica de los puntos principales puntos para la creación de aplicaciones, tanto en Android como en iOS, este análisis esta acotado a un cierto tipo de aplicaciones que pueden ser desarrolladas con XForms, que ciertamente no abarca el 100% de las otras plataformas, pero que es suficiente para ciertas necesidades.
+En este primer artículo, les quiero presentar una comparación práctica de los puntos principales para la creación de aplicaciones, tanto en Android como en iOS.
+
+Este análisis esta acotado a un cierto tipo de aplicaciones que pueden ser desarrolladas con XForms y a un pequeño número de herramientos, que ciertamente no abarca el 100% de lo que en las otras plataformas puede hacerse, pero que es suficiente para ciertas necesidades y que sin lugar a dudas este abarca un rango muy amplio de necesidades.
 
 ## Plataforma Nativa
 
-- Saber programar en Android y para iOS Swift u Objective-C, nivel alto de dificultad.
+- Saber programar en Android y para iOS en Swift o en Objective-C, nivel alto de dificultad.
 - Darte de alta en las tiendas de Google y Apple para publicar tus aplicaciones.
 - De 4 a 8 meses para el desarrollo de las aplicaciones.
 - De 2 a 4 semanas para la publicación de las aplicaciones.
@@ -36,7 +38,7 @@ En este primer artículo, les quiero presentar una comparación práctica de los
 
 Te invito a conocer las soluciones, para lo cual, si tienes Android instala ODK Collect con el link que esta en esta página o llendo a Google Play y si tienes iPhone ve al link de GIC Collect o en Apple Store la puedes buscar.
 
-Te comento que soy parte del equipo de desarrollo del GIC Collect.
+Te comento que soy parte del equipo de desarrollo del GIC Collect y tambien que nuestro equipo esta capacitado para modificar las aplicaciones GIC Collect y ODK Collect, asi como el desarrollo de XForms para una solucion que estes buscando.
 
 Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber.
 
