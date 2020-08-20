@@ -36,7 +36,7 @@ Este análisis esta acotado a un cierto tipo de aplicaciones que pueden ser desa
 - Encuestas. Desde muy sencillas hasta muy complejas, incluyendo Mapas, Codigos de Barras, Fotos, Audio y Video, etc, etc.
 - Cualquier otro, solo requiere de creatividad.
 
-Te invito a conocer las soluciones, para lo cual, si tienes Android instala ODK Collect con el link que esta en esta página o llendo a Google Play y si tienes iPhone ve al link de GIC Collect o en Apple Store la puedes buscar.
+Te invito a conocer las soluciones, para lo cual, si tienes Android instala [ODK Collect](https://play.google.com/store/apps/details?id=org.odk.collect.android&hl=en) con este link o llendo a Google Play y si tienes iPhone ve al link de [GIC Collect](https://apps.apple.com/mx/app/gic-collect/id1485932698) o en Apple Store la puedes buscar.
 
 Te comento que soy parte del equipo de desarrollo del GIC Collect y tambien que nuestro equipo esta capacitado para modificar las aplicaciones GIC Collect y ODK Collect, asi como el desarrollo de XForms para una solucion que estes buscando.
 
