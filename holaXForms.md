@@ -46,4 +46,4 @@ Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber.
 
 ## Gic Collect Menú principal
 
-![Gic Collect Menú principal](/imagenes/GicCollectMainMenu.png)
+![Gic Collect Menú principal](/imagenes/GicCollectMainMenu.jpg)
