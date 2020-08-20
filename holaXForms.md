@@ -43,3 +43,7 @@ Te comento que soy parte del equipo de desarrollo del GIC Collect y tambien que 
 Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber.
 
 [Angel Salazar](https://www.linkedin.com/in/angel-salazar-24b90b5)
+
+## Gic Collect Menú principal
+
+![Gic Collect Menú principal](/images/GicCollectMainMenu.png)
