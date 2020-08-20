@@ -1,2 +1,3 @@
-# Sitio dedicado a aplicaciones mobiles de productividad que he encontrado pueden ser de utilidad para el público en general
+# Hola, XForms
 
+Utiliza Excel, ODK Collect para Android y GIC Collect para iOS. Para obtener y compartir contenido en dispositivos moviles [Hola XForms!](holaXForms.md)
