@@ -40,4 +40,4 @@ Te comento que soy parte del equipo de desarrollo del GIC Collect.
 
 Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber.
 
-[Angel Salazar](www.linkedin.com/in/angel-salazar-24b90b5)
+[Angel Salazar](https://www.linkedin.com/in/angel-salazar-24b90b5)
