@@ -2,7 +2,7 @@
 
 XForms es un formato en XML, usado para la captura de datos en Web.
 
-Con esta tenología es posible la creación, consumo y obtención de diversos tipos de contenido, tanto del aspecto personal, como del profesional. Todo esto a través de dispositivos moviles, como son los celulares y tabletas.
+Con esta tecnología es posible la creación, consumo y obtención de diversos tipos de contenido, tanto del aspecto personal, como del profesional. Todo esto a través de dispositivos moviles, como son los celulares y tabletas.
 
 En este primer artículo, les quiero presentar una comparación práctica de los puntos principales para la creación de aplicaciones, tanto en Android como en iOS.
 
@@ -40,7 +40,7 @@ Te invito a conocer las soluciones, para lo cual, si tienes Android instala con 
 
 Te comento que soy parte del equipo de desarrollo del GIC Collect y tambien que nuestro equipo esta capacitado para modificar las aplicaciones GIC Collect y ODK Collect, asi como el desarrollo de XForms para una solucion que estes buscando.
 
-Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber. Espera nuestros siguientes Posts.
+Por favor cualquier duda o tema que quisieras que profundizara, dejamelo saber. Espera nuestros siguientes Posts, donde mostraremos como usar estas aplicaciones.
 
 [Angel Salazar](https://www.linkedin.com/in/angel-salazar-24b90b5)
 
