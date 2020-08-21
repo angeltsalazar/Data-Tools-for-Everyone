@@ -30,7 +30,7 @@ y en el siguiente renglón pon:
 
 ## Hoja choices
 
-Para este ejemplo, choices no la estaremos utilizando, solo pondremos los titulos de las columnas en el primer renglon, quedando de la siguiente forma:
+Para este ejemplo, choices no la estaremos utilizando, solo pondremos los títulos de las columnas en el primer renglon, quedando de la siguiente forma:
 
 - columna A: list_name
 - columna B: name
