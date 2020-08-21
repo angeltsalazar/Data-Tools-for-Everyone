@@ -1,6 +1,6 @@
 # Hola, XForms
 
-XForms es un formato en XML, usado para la captura de datos en Web.
+XForms es un formato en XML, usado para la captura de datos en Web. Una definición mas completa de [XForms](https://es.wikipedia.org/wiki/XForms) o [XForms en Ingles](https://en.wikipedia.org/wiki/XForms).
 
 Con esta tecnología es posible la creación, consumo y obtención de diversos tipos de contenido, tanto del aspecto personal, como del profesional. Todo esto a través de dispositivos moviles, como son los celulares y tabletas.
 
