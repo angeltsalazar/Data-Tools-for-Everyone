@@ -28,10 +28,6 @@ y en el siguiente renglón pon:
 - columna B: miVariable
 - columna C: Hola XlsForm!
 
-Esto debe quedar como la siguiente imagen:
-
-![survey](imagenes/hola-xlsform-survey.png)
-
 ## Hoja choices
 
 Para este ejemplo, choices no la estaremos utilizando, solo pondremos los titulos de las columnas en el primer renglon, quedando de la siguiente forma:
@@ -39,8 +35,6 @@ Para este ejemplo, choices no la estaremos utilizando, solo pondremos los titulo
 - columna A: list_name
 - columna B: name
 - columna C: label
-
-![choices](imagenes/hola-xlsform-choices.png)
 
 ## Hoja settings
 
