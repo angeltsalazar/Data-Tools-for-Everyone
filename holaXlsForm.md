@@ -64,6 +64,6 @@ Los pasos intermedios mencionados en este artículo y el significado de los valo
 
 ![Mi primera forma](imagenes/hola-xlsform-fillblankform.jpg)
 
-Como puedes observar, este artīculo lo hice el día de hoy en la mañana y ya puedo estas interactuando con mi contenido en el celular.
+Como puedes observar, este artīculo lo hice el día de hoy en la mañana y ya puedo estar interactuando con mi contenido en el celular.
 
 Impresionante, no?
