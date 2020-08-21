@@ -4,7 +4,7 @@ Asi como el formato [XForms](holaXForms.md) abstraé mucha de la dificultad para
 
 Una Forma en formato XlsForm, es creada con Excel o cualquier herramienta que genere el formato .xls o preferible .xlsx. Herramientas que como Excel pueden generar este tipo de archivos son SpreadSheet de LibreOffice (Open Source), Numbers de iWorks (Apple), Sheets de G Suite (Google), entre otros.
 
-Para generar la forma, debes crear un archivo Excel con 3 Hojas, nombrando a cada una de la siguiente forma, por convension los nombres de las hojas, columnas y controles mantenlas en minusculas, utilizando solo letras y números, y que el primer caracter del nombre sea letra.
+Para generar la forma, debes crear un archivo Excel con 3 Hojas, nombrando a cada una de la siguiente forma, por convención los nombres de las hojas, columnas y controles mantenlas en minusculas, utilizando solo letras y números, y que el primer caracter del nombre sea letra.
 
 1. hoja1 survey
 2. hoja2 choices
