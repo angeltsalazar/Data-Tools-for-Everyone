@@ -63,3 +63,7 @@ Ya con la forma [hola-xlsform.xlsx](blankforms/hola.xlsform.xlsx) publicada en u
 Los pasos intermedios mencionados en este artículo y el significado de los valores en las hojas, los estaremos viendo en siguientes artículos.
 
 ![Mi primera forma](imagenes/hola-xlsform-fillblankform.jpg)
+
+Como puedes observar, este artīculo lo hice el día de hoy en la mañana y ya puedo estar interactuando con mi contenido en el celular.
+
+Impresionante, no?
