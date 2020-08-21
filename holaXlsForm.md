@@ -6,9 +6,9 @@ Una Forma en formato XlsForm, es creada con Excel o cualquier herramienta que ge
 
 Para generar la forma, debes crear un archivo Excel con 3 Hojas, nombrando a cada una de la siguiente forma, por convención los nombres de las hojas, columnas y controles mantenlas en minusculas, utilizando solo letras y números, y que el primer caracter del nombre sea letra.
 
-1. hoja1 survey
-2. hoja2 choices
-3. hoja3 settings
+- hoja1 survey
+- hoja2 choices
+- hoja3 settings
 
 ## Hoja survey
 
