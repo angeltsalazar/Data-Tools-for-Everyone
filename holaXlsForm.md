@@ -50,7 +50,7 @@ y en el segundo renglón:
 
 ## La forma hola-xlsform.xlsx en GIC Collect y ODK Collect
 
-Despues de haber creado la forma en Excel, el siguiente paso es publicarla en un Servidor para estar formas.
+Despues de haber creado la forma en Excel, el siguiente paso es publicarla en un Servidor para estas formas.
 
 Ya con la forma [hola-xlsform.xlsx](blankforms/hola-xlsform.xlsx) publicada en un Servidor, desde mi telefono o tableta, ya sea con GIC Collect para iOS o con ODK Collect para Android, me conecto al servidor y bajo la forma al dispositivo y ya puedo interactuar con dicho contenido, que en este caso me muestra la pantalla con la leyenda "Hola XlsForm!", como en la siguiente imagen.
 
